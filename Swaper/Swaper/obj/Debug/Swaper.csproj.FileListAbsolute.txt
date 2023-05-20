@@ -1,0 +1,11 @@
+C:\Users\admin_0\source\repos\Swaper\Swaper\bin\Debug\Swaper.exe.config
+C:\Users\admin_0\source\repos\Swaper\Swaper\bin\Debug\Swaper.exe
+C:\Users\admin_0\source\repos\Swaper\Swaper\bin\Debug\Swaper.pdb
+C:\Users\admin_0\source\repos\Swaper\Swaper\obj\Debug\Swaper.csproj.AssemblyReference.cache
+C:\Users\admin_0\source\repos\Swaper\Swaper\obj\Debug\Swaper.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin_0\source\repos\Swaper\Swaper\obj\Debug\Swaper.Form1.resources
+C:\Users\admin_0\source\repos\Swaper\Swaper\obj\Debug\Swaper.Properties.Resources.resources
+C:\Users\admin_0\source\repos\Swaper\Swaper\obj\Debug\Swaper.csproj.GenerateResource.cache
+C:\Users\admin_0\source\repos\Swaper\Swaper\obj\Debug\Swaper.csproj.CoreCompileInputs.cache
+C:\Users\admin_0\source\repos\Swaper\Swaper\obj\Debug\Swaper.exe
+C:\Users\admin_0\source\repos\Swaper\Swaper\obj\Debug\Swaper.pdb
